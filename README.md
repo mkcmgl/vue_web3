@@ -1,5 +1,5 @@
 ## web3.js + vue
-# web3
+
 
 ## Project setup
 ```
